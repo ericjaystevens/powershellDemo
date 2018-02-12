@@ -1,0 +1,1 @@
+﻿if (-not (test-vmwareStatus)){ restart-vmwareServices }
